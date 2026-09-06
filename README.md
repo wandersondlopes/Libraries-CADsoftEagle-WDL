@@ -1,4 +1,4 @@
-#     Libraries CADsoftEagle
+#     Libraries CADsoftEagle WDL
 
 Librarie CADsoft Eagle for electronic components HC-06 and USB 2.0 with Ethernet connector conjugated.
 
